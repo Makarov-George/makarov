@@ -1,2 +1,2 @@
 "Изменение из ветки main"  
-"Изменение из ветки conflict-branch"  
+"Изменение из ветки conflict-branch"   
