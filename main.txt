@@ -1,2 +1,2 @@
-"This is the main branch"  
-"Now this is the fix branch!""  
+"Изменение из ветки main"  
+"Изменение из ветки conflict-branch"   
